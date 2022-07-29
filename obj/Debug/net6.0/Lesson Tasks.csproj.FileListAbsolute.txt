@@ -1,0 +1,15 @@
+/Users/mas/Lesson Tasks/bin/Debug/net6.0/Lesson Tasks
+/Users/mas/Lesson Tasks/bin/Debug/net6.0/Lesson Tasks.deps.json
+/Users/mas/Lesson Tasks/bin/Debug/net6.0/Lesson Tasks.runtimeconfig.json
+/Users/mas/Lesson Tasks/bin/Debug/net6.0/Lesson Tasks.dll
+/Users/mas/Lesson Tasks/bin/Debug/net6.0/Lesson Tasks.pdb
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.csproj.AssemblyReference.cache
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.AssemblyInfoInputs.cache
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.AssemblyInfo.cs
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.csproj.CoreCompileInputs.cache
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.dll
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/refint/Lesson Tasks.dll
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.pdb
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/Lesson Tasks.genruntimeconfig.cache
+/Users/mas/Lesson Tasks/obj/Debug/net6.0/ref/Lesson Tasks.dll
